@@ -1,6 +1,6 @@
 {
     "version": "1.0.0",
-    "summary": "test suite for utility functions",
+    "summary": "Test suite",
     "repository": "https://github.com/apuchenkin/elm-multiway-tree-extra.git",
     "license": "BSD3",
     "source-directories": [
